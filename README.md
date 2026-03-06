@@ -30,7 +30,6 @@ This project demonstrates how to build an **interactive dashboard** using Micros
 - Financial reporting.
 - Employee productivity monitoring.
 - Academic or research data visualization.
+  
+<img width="1920" height="1005" alt="Dashboard Excel" src="https://github.com/user-attachments/assets/a2e6acbc-8901-4496-a166-8687b9a56ef6" />
 
-## 👩‍💻 Author
-Musyarofah – Mathematics graduate specializing in data analysis, coding, and workflow optimization.  
-Passionate about building transparent, scalable, and practical data solutions.
